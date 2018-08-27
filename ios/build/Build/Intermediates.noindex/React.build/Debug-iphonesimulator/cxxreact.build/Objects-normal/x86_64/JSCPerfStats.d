@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/ReactCommon/cxxreact/JSCPerfStats.cpp \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/ReactCommon/cxxreact/JSCPerfStats.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h

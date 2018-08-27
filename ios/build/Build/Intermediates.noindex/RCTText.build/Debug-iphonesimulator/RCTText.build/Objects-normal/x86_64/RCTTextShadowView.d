@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.m \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/Libraries/Text/Text/RCTTextView.h

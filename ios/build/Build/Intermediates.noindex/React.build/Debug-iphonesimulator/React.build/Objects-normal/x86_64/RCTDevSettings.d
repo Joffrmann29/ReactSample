@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/joffreymann/Documents/projectTwo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/joffreymann/Documents/projectTwo/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
